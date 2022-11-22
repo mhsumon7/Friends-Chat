@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842650706563",
+    "project_id": "campus-talk-7337b",
+    "storage_bucket": "campus-talk-7337b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842650706563:android:bdcfba547a6e5771ac31b6",
+        "android_client_info": {
+          "package_name": "com.example.campus_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842650706563-iu6ddp8fcksa7t02ldvvmkl65iugcogt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAHC7ysdK7NzLFaaSDxX32auoX-phyGps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842650706563-iu6ddp8fcksa7t02ldvvmkl65iugcogt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
